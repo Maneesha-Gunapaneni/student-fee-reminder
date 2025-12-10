@@ -1,0 +1,6 @@
+student_id,name,parent_name,parent_contact,term1_fee,paid_amount,due_date
+1,Arun Kumar,Smt. Kumar,+919876543210,15000,5000,2025-11-10
+2,Sneha Rao,Mr. Rao,+919812345678,15000,15000,2025-11-01
+3,Rahul Verma,Ms. Verma,+919900112233,15000,0,2025-11-15
+4,Meera Patel,Mr. Patel,+919988776655,15000,10000,2025-10-20
+5,Aditya Singh,Mr. Singh,+919877665544,15000,15000,2025-11-03

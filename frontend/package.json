@@ -1,0 +1,13 @@
+{
+  "name": "student-fee-reminder",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "vite": "^5.1.0"
+  },
+  "scripts": {
+    "dev": "vite"
+  }
+}
