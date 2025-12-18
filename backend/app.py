@@ -8,6 +8,8 @@ CORS(app)
 
 CSV_PATH = 'students.csv'
 
+
+
 # ---------- STEP 1: Create CSV file if not exists ----------
 def create_csv():
     try:
@@ -29,6 +31,8 @@ def create_csv():
         print("CSV file created successfully.")
 
 create_csv()
+
+
 
 
 # ---------- STEP 2: Calculate pending fees ----------
